@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wx", "Wx.csproj", "{11ebea8b-d236-db6a-1d18-ef457814c54c}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{8d24ddfc-6566-c7de-b5f8-6c09a9434421}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WxEditor", "WxEditor.csproj", "{74f67d2e-3799-54af-ecee-996083bb881c}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11ebea8b-d236-db6a-1d18-ef457814c54c}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11ebea8b-d236-db6a-1d18-ef457814c54c}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11ebea8b-d236-db6a-1d18-ef457814c54c}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11ebea8b-d236-db6a-1d18-ef457814c54c}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8d24ddfc-6566-c7de-b5f8-6c09a9434421}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8d24ddfc-6566-c7de-b5f8-6c09a9434421}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8d24ddfc-6566-c7de-b5f8-6c09a9434421}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8d24ddfc-6566-c7de-b5f8-6c09a9434421}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74f67d2e-3799-54af-ecee-996083bb881c}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74f67d2e-3799-54af-ecee-996083bb881c}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74f67d2e-3799-54af-ecee-996083bb881c}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74f67d2e-3799-54af-ecee-996083bb881c}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
